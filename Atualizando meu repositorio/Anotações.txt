@@ -1,0 +1,1 @@
+Para saber mais sobre jdk acesse esse link: https://www.java.com/pt-BR/download/help/techinfo_pt-br.html#:~:text=JDK,-(Java%20Development%20Kit&text=%C3%89%20um%20pacote%20de%20software,necess%C3%A1rio%20para%20desenvolver%20aplicativos%20java.
